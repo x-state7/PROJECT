@@ -117,7 +117,7 @@ http://YOUR-EC2-IP
 Hard refresh cache:
 CTRL + SHIFT + R
 
-📸 Screenshots (add later)
+📸 Screenshots
 
 Coming soon…
 
@@ -157,31 +157,9 @@ Govt. of India — MGNREGA Public Data Portal
 PostgreSQL Community
 
 
-TailwindCSS, React, Node.js
 
-
-
-Want extras?
-Comment and I will give you:
-✅ Deployment Guide (EC2 + PM2 + Nginx)
-✅ PPT + Project Report PDF
-✅ ER Diagram
-✅ API Docs
 
 
 If this project helped you — star ⭐ the repo!
 
 
----
-
-### ✅ You're good to paste this directly into GitHub.
-
-Would you like:
-
-- [ ] `deployment_guide.md`
-- [ ] `architecture_diagram.png`
-- [ ] `DB_schema.sql`
-- [ ] `project_presentation.pptx`
-- [ ] `Screenshots + GIF layout`
-
-Tell me which ones you want & I’ll generate!
