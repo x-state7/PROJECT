@@ -11,7 +11,7 @@ This system fetches live MGNREGA data, stores it in PostgreSQL, and presents int
 - Real-time government data sync
 - Cron-based auto updater
 - PostgreSQL + JSONB storage
-- Redis caching (optional)
+- Redis caching 
 - Winston logging
 - Secure ENV config
 - PM2 process manager
